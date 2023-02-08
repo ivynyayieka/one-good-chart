@@ -1,0 +1,6 @@
+jupyter
+pandas
+rpy2
+tzlocal
+matplotlib
+scikit-learn
